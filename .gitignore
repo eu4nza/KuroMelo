@@ -1,0 +1,4 @@
+/.env
+/database.db
+/embeds.yml
+/oldmember-importer.js
